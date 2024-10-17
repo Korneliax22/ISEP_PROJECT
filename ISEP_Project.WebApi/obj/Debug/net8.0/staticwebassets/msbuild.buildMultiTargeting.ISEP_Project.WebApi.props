@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ISEP_Project.WebApi.props" />
+</Project>

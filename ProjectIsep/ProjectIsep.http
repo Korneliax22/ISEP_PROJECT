@@ -1,6 +1,0 @@
-@ProjectIsep_HostAddress = http://localhost:5066
-
-GET {{ProjectIsep_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
